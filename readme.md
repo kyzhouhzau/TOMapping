@@ -6,4 +6,4 @@ In order to propel the research of trait mapping in plant-related literatures, o
 The proposal is to encourage a joint research among BioNLP community towards the TO ontology mapping, trait specification of plant science papers, and gene-trait association studies in rice. 
 
 
-Test!
+rrjrjs
